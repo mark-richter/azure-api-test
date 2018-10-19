@@ -1,0 +1,39 @@
+{
+  "id": "/apis/hello-me",
+  "name": "hello-me",
+  "apiRevision": "1",
+  "$ref-description": "",
+  "serviceUrl": null,
+  "path": "",
+  "protocols": [
+    "http"
+  ],
+  "authenticationSettings": {
+    "oAuth2": null,
+    "openid": null
+  },
+  "subscriptionKeyParameterNames": {
+    "header": "Ocp-Apim-Subscription-Key",
+    "query": "subscription-key"
+  },
+  "isCurrent": true,
+  "operations": [
+    {
+      "id": "/apis/hello-me/operations/hello1",
+      "name": "hello1",
+      "method": "GET",
+      "urlTemplate": "/hello1",
+      "templateParameters": [],
+      "$ref-description": "",
+      "request": {
+        "queryParameters": [],
+        "headers": [],
+        "representations": []
+      },
+      "responses": [],
+      "policies": null
+    }
+  ],
+  "apiSchemas": [],
+  "__GitModuleVersion": 15
+}
