@@ -11,7 +11,7 @@
   "$ref-policy": "api-management/policies/global.xml",
   "IntegrationModuleVersion": "15",
   "IntegrationModuleBitsVersion": "0.10.604.0",
-  "ExportDate": "2018-10-19T15:06:26.4984152Z",
+  "ExportDate": "2018-10-19T15:26:35.6323327Z",
   "SupportedPreviousBitsVersions": [
     14
   ]

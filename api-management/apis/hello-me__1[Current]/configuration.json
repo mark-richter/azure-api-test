@@ -31,7 +31,8 @@
         "representations": []
       },
       "responses": [],
-      "policies": null
+      "policies": null,
+      "$ref-policy": "api-management/policies/apis/hello-me__1[Current]/operations/GET__hello1.xml"
     }
   ],
   "apiSchemas": [],
